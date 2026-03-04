@@ -1,9 +1,9 @@
 {
     "type": "micro",
-    "wake_word": "Knockturnuh",
-    "author": "Tater Totterson",
-    "website": "https://github.com/TaterTotterson/microWakeWord-Trainer-Nvidia-Docker.git",
-    "model": "knockturnuh.tflite",
+    "wake_word": "Nocturna",
+    "author": "MorningstarOwl",
+    "website": "https://github.com/MorningstarOwl/wake-word-models",
+    "model": "nocturna.tflite",
     "trained_languages": ["en"],
     "version": 2,
     "micro": {
