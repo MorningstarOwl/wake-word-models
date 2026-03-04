@@ -1,4 +1,4 @@
-# Wake Word Models
+# Micro Wake Word Models for Home Assistant Voice PE
 
 Custom [microWakeWord](https://github.com/OHF-Voice/micro-wake-word) models for on-device wake word detection on [Home Assistant](https://www.home-assistant.io/) voice hardware.
 
